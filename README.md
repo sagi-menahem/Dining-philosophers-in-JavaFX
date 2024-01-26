@@ -36,3 +36,5 @@ The application models the dining philosophers problem, a classic synchronizatio
 ## Screenshots
 
 ![Image1](Images/image1.png)
+
+![Image2](Images/image2.png)
