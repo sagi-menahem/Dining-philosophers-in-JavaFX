@@ -10,6 +10,7 @@ Task #5 for the 20554 java course of the Open University
 - [Features](#features)
 - [Classes Overview](#classes-overview)
 - [Screenshots](#screenshots)
+-  [Author](#author)
 
 ## Introduction
 
@@ -38,3 +39,7 @@ The application models the dining philosophers problem, a classic synchronizatio
 ![Image1](Images/image1.png)
 
 ![Image2](Images/image2.png)
+
+## Author
+
+Sagi Menachem.
